@@ -1,6 +1,6 @@
 {
   "name": "angular-timezone-selector",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "AngularJS timezone selector",
   "main": "dist/angular-timezone-selector.min.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/mishguruorg/angular-country-selector.git"
+    "url": "git://github.com/aNieto2k/angular-timezone-selector.git"
   },
   "keywords": [
     "angular",
